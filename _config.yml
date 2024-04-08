@@ -19,14 +19,14 @@ minimal_mistakes_skin: "plum" # "default" "air", "aqua", ...
 
 # Site Settings
 locale: "ko-KR" #"en-US"
-title: "ZOE Devlog" # 상단 헤더에 보이는 블로그 명
+title: "zoe-world Devlog" # 상단 헤더에 보이는 블로그 명
 title_separator: "&#124;"
 subtitle: # site tagline that appears below site title in masthead
 name: "" # 블로그 닉네임 설정
-description: "this is my blog!" # 블로그 설명
-url: "https://zoe.github.io" # 블로그 URL
+description: "완벽보단 완성을, 기억보단 기록을📝" # 블로그 설명
+url: "https://zoe-world.github.io" # 블로그 URL
 baseurl: # the subpath of your site, e.g. "/blog"
-repository: "zoe-world/zoe.github.io" # GitHub Repo 이름
+repository: "zoe-world/zoe-world.github.io" # GitHub Repo 이름
 teaser: #
 
 # logo                     : # 블로그명 앞에 로고 추가하고 싶을 경우 사용
