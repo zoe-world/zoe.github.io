@@ -15,54 +15,31 @@ main:
   # - title: "Categories"
   #   url: /categories/
 
-# sidebar navigation (categories)
-# 2022.02.15 sidebar update : simple ver.
-# categories:
-#   - title: "FE"
-#     children:
-#       - title: "HTML"
-#         url: /categories/HTML/
-#       - title: "CSS"
-#         url: /categories/CSS/
-#       - title: "React"
-#         url: /categories/React/
-#       - title: "Typescript"
-#         url: /categories/Typescript/
-
-#   - title: "CS"
-#     children:
-#       - title: "자료구조 & 알고리즘"
-#         url: /categories/자료구조 & 알고리즘/
-#       - title: "코딩테스트"
-#         url: /categories/코딩테스트/
-
-#   - title: "책"
-#     children:
-#       - title: "IT"
-#         url: /categories/IT/
-#       - title: "소설"
-#         url: /categories/소설/
-
 categories:
-  - title: "Title1"
+  - title: "FE"
     children:
-      - title: "Categories1"
-        url: /categories/categories1/
-      - title: "Categories2"
-        url: /categories/categories2/
-      - title: "Categories3"
-        url: /categories/categories3/
-      - title: "Categories4"
-        url: /categories/categories4/
+      - title: "HTML"
+        url: /categories/html/
+      - title: "CSS"
+        url: /categories/css/
+      - title: "React"
+        url: /categories/react/
+      - title: "Typescript"
+        url: /categories/typescript/
 
-  - title: "Title2"
+  - title: "CS"
     children:
-      - title: "Categories5"
-        url: /categories/categories5/
-      - title: "Categories6"
-        url: /categories/categories6/
+      - title: "Algorithm"
+        url: /categories/algorithm/
+      - title: "Coding Test"
+        url: /categories/codingtest/
 
-  - title: "Title3"
+  - title: "Projects"
     children:
-      - title: "Categories7"
-        url: /categories/categories7/
+      - title: "Portfolio"
+        url: /categories/portfolio/
+
+  - title: "Articles"
+    children:
+      - title: "IT"
+        url: /categories/it/
