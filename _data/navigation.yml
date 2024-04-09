@@ -17,26 +17,52 @@ main:
 
 # sidebar navigation (categories)
 # 2022.02.15 sidebar update : simple ver.
+# categories:
+#   - title: "FE"
+#     children:
+#       - title: "HTML"
+#         url: /categories/HTML/
+#       - title: "CSS"
+#         url: /categories/CSS/
+#       - title: "React"
+#         url: /categories/React/
+#       - title: "Typescript"
+#         url: /categories/Typescript/
+
+#   - title: "CS"
+#     children:
+#       - title: "자료구조 & 알고리즘"
+#         url: /categories/자료구조 & 알고리즘/
+#       - title: "코딩테스트"
+#         url: /categories/코딩테스트/
+
+#   - title: "책"
+#     children:
+#       - title: "IT"
+#         url: /categories/IT/
+#       - title: "소설"
+#         url: /categories/소설/
+
 categories:
-  - title: "FE"
+  - title: "Title1"
     children:
-      - title: "HTML"
-        url: /categories/HTML/
-      - title: "CSS"
-        url: /categories/CSS/
-      - title: "React"
-        url: /categories/React/
-      - title: "Typescript"
-        url: /categories/Typescript/
-  - title: "CS"
+      - title: "Categories1"
+        url: /categories/categories1/
+      - title: "Categories2"
+        url: /categories/categories2/
+      - title: "Categories3"
+        url: /categories/categories3/
+      - title: "Categories4"
+        url: /categories/categories4/
+
+  - title: "Title2"
     children:
-      - title: "자료구조 & 알고리즘"
-        url: /categories/자료구조 & 알고리즘/
-      - title: "코딩테스트"
-        url: /categories/코딩테스트/
-  - title: "책"
+      - title: "Categories5"
+        url: /categories/categories5/
+      - title: "Categories6"
+        url: /categories/categories6/
+
+  - title: "Title3"
     children:
-      - title: "IT"
-        url: /categories/IT/
-      - title: "소설"
-        url: /categories/소설/
+      - title: "Categories7"
+        url: /categories/categories7/
