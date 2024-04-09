@@ -21,20 +21,22 @@ categories:
   - title: "FE"
     children:
       - title: "HTML"
-        url: categories/FE/HTML/
+        url: categories/HTML/
       - title: "CSS"
-        url: categories/FE/CSS/
+        url: categories/CSS/
       - title: "React"
-        url: categories/FE/React/
+        url: categories/React/
       - title: "Typescript"
-        url: categories/FE/Typescript/
+        url: categories/Typescript/
   - title: "CS"
-    url: categories/CS/
-  - title: "Categories3"
-    url: categories/CS/categories3/
+    children:
+      - title: "자료구조 & 알고리즘"
+        url: categories/자료구조 & 알고리즘/
+      - title: "코딩테스트"
+        url: categories/코딩테스트/
   - title: "책"
     children:
       - title: "IT"
-        url: categories/책/IT
+        url: categories/IT/
       - title: "소설"
-        url: 책/소설
+        url: categories/소설/
