@@ -18,20 +18,20 @@ main:
 # sidebar navigation (categories)
 # 2022.02.15 sidebar update : simple ver.
 categories:
-  - title: ""
+  - title: "FE"
     children:
-      - title: "Categories1"
-        url: /categories/categories1/
-      - title: "Categories2"
-        url: /categories/categories2/
-      - title: "Categories3"
-        url: /categories/categories3/
-      - title: "Categories4"
-        url: /categories/categories4/
-  - title: "Categories2"
-    url: /categories/categories2/
+      - title: "HTML"
+        url: /FE/HTML/
+      - title: "CSS"
+        url: /FE/CSS/
+      - title: "React"
+        url: /FE/React/
+      - title: "Typescript"
+        url: /FE/Typescript/
+  - title: "CS"
+    url: /CS/
   - title: "Categories3"
-    url: /categories/categories3/
+    url: /CS/categories3/
   - title: "책"
     children:
       - title: "IT"
