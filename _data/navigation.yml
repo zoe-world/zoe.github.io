@@ -21,17 +21,17 @@ categories:
   - title: "FE"
     children:
       - title: "HTML"
-        url: /FE/HTML/
+        url: categories/FE/HTML/
       - title: "CSS"
-        url: /FE/CSS/
+        url: categories/FE/CSS/
       - title: "React"
-        url: /FE/React/
+        url: categories/FE/React/
       - title: "Typescript"
-        url: /FE/Typescript/
+        url: categories/FE/Typescript/
   - title: "CS"
-    url: /CS/
+    url: categories/CS/
   - title: "Categories3"
-    url: /CS/categories3/
+    url: categories/CS/categories3/
   - title: "책"
     children:
       - title: "IT"
